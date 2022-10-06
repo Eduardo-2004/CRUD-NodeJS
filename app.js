@@ -8,9 +8,9 @@ const mysql = require('mysql')
 
 const connection = mysql.createConnection({
     host     : 'localhost',
-    user     : 'eduardo',
-    password : '123456',
-    database : 'celke'
+    user     : '.....',
+    password : '#####',
+    database : 'vvvvv'
   });
 
 //INSERINDO ELEMENTOS NO BANCO
